@@ -9,6 +9,8 @@ raporty.
 Działa w całości w przeglądarce — bez własnego serwera i bez bazy
 danych — dzięki czemu można ją hostować za darmo na GitHub Pages.
 
+> (Automated rebuild trigger: minor README whitespace update)
+
 ## Jak zacząć
 
 1. Otwórz stronę **Profil** i wybierz typ placówki:
@@ -20,10 +22,10 @@ danych — dzięki czemu można ją hostować za darmo na GitHub Pages.
 3. Wejdź w **Jadłospis** i dodawaj dania z bazy na kolejne dni tygodnia
    (albo przejdź przez **Dziś**, żeby zaplanować jeden dzień).
 4. Zatwierdzaj dni w zakładce **Dziś** — dopiero zatwierdzone dni
-   liczą się do zgodności z rozporządzeniem, dziennika i raportów.
+    liczą się do zgodności z rozporządzeniem, dziennika i raportów.
 5. Zakładka **Zgodność z przepisami** pokazuje, czy tygodniowy
-   jadłospis spełnia obowiązkowe zasady (m.in. dania roślinne, limit
-   mięsa i smażenia, ryba, warzywa/owoce do każdego posiłku).
+    jadłospis spełnia obowiązkowe zasady (m.in. dania roślinne, limit
+    mięsa i smażenia, ryba, warzywa/owoce do każdego posiłku).
 
 ## Dodawanie własnych dań
 
