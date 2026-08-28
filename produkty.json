@@ -1,0 +1,1458 @@
+[
+  {
+    "kod_kreskowy": "5901731527178",
+    "nazwa": "pomidor",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 18.0,
+      "bialko_g": 0.9,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 3.9,
+      "blonnik_g": 1.2,
+      "cukry_g": 2.6,
+      "sod_mg": 5.0,
+      "witamina_c_mg": 13.0,
+      "zelazo_mg": 0.3,
+      "woda_g": 94.5
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5902390218629",
+    "nazwa": "marchew",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 41.0,
+      "bialko_g": 0.9,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 9.6,
+      "blonnik_g": 2.8,
+      "cukry_g": 4.7,
+      "sod_mg": 69.0,
+      "witamina_c_mg": 5.9,
+      "zelazo_mg": 0.3,
+      "woda_g": 88.3
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5903118807675",
+    "nazwa": "pietruszka",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 36.0,
+      "bialko_g": 1.3,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 8.0,
+      "blonnik_g": 3.3,
+      "cukry_g": 2.9,
+      "sod_mg": 41.0,
+      "witamina_c_mg": 17.0,
+      "zelazo_mg": 0.6,
+      "woda_g": 88.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5909475009134",
+    "nazwa": "cebula",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 40.0,
+      "bialko_g": 1.1,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 9.3,
+      "blonnik_g": 1.7,
+      "cukry_g": 4.2,
+      "sod_mg": 4.0,
+      "witamina_c_mg": 7.4,
+      "zelazo_mg": 0.2,
+      "woda_g": 89.1
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5909909577147",
+    "nazwa": "czosnek",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 149.0,
+      "bialko_g": 6.4,
+      "tluszcz_g": 0.5,
+      "weglowodany_g": 33.1,
+      "blonnik_g": 2.1,
+      "cukry_g": 1.0,
+      "sod_mg": 17.0,
+      "witamina_c_mg": 31.2,
+      "zelazo_mg": 1.7,
+      "woda_g": 58.5
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5906049477566",
+    "nazwa": "makaron pełnoziarnisty",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 350.0,
+      "bialko_g": 13.0,
+      "tluszcz_g": 2.5,
+      "weglowodany_g": 65.0,
+      "blonnik_g": 7.0,
+      "cukry_g": 3.0,
+      "sod_mg": 5.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 2.0,
+      "woda_g": 10.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5903457530487",
+    "nazwa": "olej rzepakowy",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 884.0,
+      "bialko_g": 0.0,
+      "tluszcz_g": 100.0,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0.0,
+      "cukry_g": 0.0,
+      "sod_mg": 0.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.0,
+      "woda_g": 0.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5906593416844",
+    "nazwa": "jogurt naturalny",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 61.0,
+      "bialko_g": 4.5,
+      "tluszcz_g": 2.0,
+      "weglowodany_g": 4.7,
+      "blonnik_g": 0.0,
+      "cukry_g": 4.7,
+      "sod_mg": 40.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.0,
+      "woda_g": 88.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5907768269746",
+    "nazwa": "natka pietruszki",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 36.0,
+      "bialko_g": 3.0,
+      "tluszcz_g": 0.8,
+      "weglowodany_g": 6.3,
+      "blonnik_g": 3.3,
+      "cukry_g": 0.8,
+      "sod_mg": 56.0,
+      "witamina_c_mg": 133.0,
+      "zelazo_mg": 6.2,
+      "woda_g": 85.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5905934598188",
+    "nazwa": "soczewica czerwona",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 358.0,
+      "bialko_g": 24.0,
+      "tluszcz_g": 1.0,
+      "weglowodany_g": 60.0,
+      "blonnik_g": 11.0,
+      "cukry_g": 2.0,
+      "sod_mg": 6.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 7.5,
+      "woda_g": 10.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5908865379000",
+    "nazwa": "dynia",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 26.0,
+      "bialko_g": 1.0,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 6.5,
+      "blonnik_g": 0.5,
+      "cukry_g": 2.7,
+      "sod_mg": 1.0,
+      "witamina_c_mg": 9.0,
+      "zelazo_mg": 0.8,
+      "woda_g": 91.6
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5900947709927",
+    "nazwa": "cukinia",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 17.0,
+      "bialko_g": 1.2,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 3.1,
+      "blonnik_g": 1.1,
+      "cukry_g": 2.4,
+      "sod_mg": 3.0,
+      "witamina_c_mg": 17.9,
+      "zelazo_mg": 0.4,
+      "woda_g": 94.7
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5907199577922",
+    "nazwa": "papryka czerwona",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 31.0,
+      "bialko_g": 1.0,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 6.0,
+      "blonnik_g": 2.1,
+      "cukry_g": 4.2,
+      "sod_mg": 3.0,
+      "witamina_c_mg": 128.0,
+      "zelazo_mg": 0.4,
+      "woda_g": 92.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5901237168332",
+    "nazwa": "kasza jęczmienna",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 354.0,
+      "bialko_g": 10.0,
+      "tluszcz_g": 1.5,
+      "weglowodany_g": 75.0,
+      "blonnik_g": 10.0,
+      "cukry_g": 0.8,
+      "sod_mg": 10.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 2.5,
+      "woda_g": 10.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5906062127110",
+    "nazwa": "oregano",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 306.0,
+      "bialko_g": 11.0,
+      "tluszcz_g": 10.0,
+      "weglowodany_g": 64.0,
+      "blonnik_g": 42.0,
+      "cukry_g": 4.0,
+      "sod_mg": 25.0,
+      "witamina_c_mg": 2.0,
+      "zelazo_mg": 36.8,
+      "woda_g": 9.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5909166294320",
+    "nazwa": "dorsz filet",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 82.0,
+      "bialko_g": 18.0,
+      "tluszcz_g": 0.7,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0.0,
+      "cukry_g": 0.0,
+      "sod_mg": 54.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.3,
+      "woda_g": 81.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5909717078850",
+    "nazwa": "ziemniak",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 77.0,
+      "bialko_g": 2.0,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 17.5,
+      "blonnik_g": 2.2,
+      "cukry_g": 0.8,
+      "sod_mg": 6.0,
+      "witamina_c_mg": 19.7,
+      "zelazo_mg": 0.8,
+      "woda_g": 79.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5903867737117",
+    "nazwa": "kapusta biała",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 25.0,
+      "bialko_g": 1.3,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 5.8,
+      "blonnik_g": 2.5,
+      "cukry_g": 3.2,
+      "sod_mg": 18.0,
+      "witamina_c_mg": 36.6,
+      "zelazo_mg": 0.4,
+      "woda_g": 92.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5902431779508",
+    "nazwa": "jabłko",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 52.0,
+      "bialko_g": 0.3,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 13.8,
+      "blonnik_g": 2.4,
+      "cukry_g": 10.4,
+      "sod_mg": 1.0,
+      "witamina_c_mg": 4.6,
+      "zelazo_mg": 0.1,
+      "woda_g": 85.6
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5906242532352",
+    "nazwa": "koperek",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 43.0,
+      "bialko_g": 3.5,
+      "tluszcz_g": 1.1,
+      "weglowodany_g": 7.0,
+      "blonnik_g": 2.1,
+      "cukry_g": 0.0,
+      "sod_mg": 61.0,
+      "witamina_c_mg": 85.0,
+      "zelazo_mg": 6.6,
+      "woda_g": 85.9
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5904976887717",
+    "nazwa": "brokuł",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 34.0,
+      "bialko_g": 2.8,
+      "tluszcz_g": 0.4,
+      "weglowodany_g": 6.6,
+      "blonnik_g": 2.6,
+      "cukry_g": 1.7,
+      "sod_mg": 33.0,
+      "witamina_c_mg": 89.2,
+      "zelazo_mg": 0.7,
+      "woda_g": 89.3
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5908135483956",
+    "nazwa": "groszek zielony",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 81.0,
+      "bialko_g": 5.4,
+      "tluszcz_g": 0.4,
+      "weglowodany_g": 14.5,
+      "blonnik_g": 5.1,
+      "cukry_g": 5.7,
+      "sod_mg": 5.0,
+      "witamina_c_mg": 40.0,
+      "zelazo_mg": 1.5,
+      "woda_g": 78.9
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5905525928844",
+    "nazwa": "mleko",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 50.0,
+      "bialko_g": 3.3,
+      "tluszcz_g": 2.0,
+      "weglowodany_g": 4.7,
+      "blonnik_g": 0.0,
+      "cukry_g": 4.7,
+      "sod_mg": 45.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.0,
+      "woda_g": 88.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5904796220770",
+    "nazwa": "płatki owsiane",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 389.0,
+      "bialko_g": 13.0,
+      "tluszcz_g": 7.0,
+      "weglowodany_g": 65.0,
+      "blonnik_g": 10.0,
+      "cukry_g": 1.0,
+      "sod_mg": 2.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 4.0,
+      "woda_g": 8.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5907487561466",
+    "nazwa": "kurczak - pierś",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 165.0,
+      "bialko_g": 31.0,
+      "tluszcz_g": 3.6,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0.0,
+      "cukry_g": 0.0,
+      "sod_mg": 74.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.7,
+      "woda_g": 75.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5907153715360",
+    "nazwa": "papryka żółta",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 27.0,
+      "bialko_g": 1.0,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 6.3,
+      "blonnik_g": 1.9,
+      "cukry_g": 4.5,
+      "sod_mg": 3.0,
+      "witamina_c_mg": 183.5,
+      "zelazo_mg": 0.4,
+      "woda_g": 92.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5909134472149",
+    "nazwa": "kukurydza",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 86.0,
+      "bialko_g": 3.3,
+      "tluszcz_g": 1.2,
+      "weglowodany_g": 18.7,
+      "blonnik_g": 2.7,
+      "cukry_g": 6.3,
+      "sod_mg": 15.0,
+      "witamina_c_mg": 6.8,
+      "zelazo_mg": 0.5,
+      "woda_g": 76.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5901916403013",
+    "nazwa": "ryż biały",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 360.0,
+      "bialko_g": 7.0,
+      "tluszcz_g": 0.7,
+      "weglowodany_g": 80.0,
+      "blonnik_g": 1.0,
+      "cukry_g": 0.1,
+      "sod_mg": 5.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.8,
+      "woda_g": 12.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5903168096005",
+    "nazwa": "papryka słodka",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 282.0,
+      "bialko_g": 14.0,
+      "tluszcz_g": 13.0,
+      "weglowodany_g": 54.0,
+      "blonnik_g": 34.0,
+      "cukry_g": 10.0,
+      "sod_mg": 68.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 21.1,
+      "woda_g": 10.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5906434806780",
+    "nazwa": "woda",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 0.0,
+      "bialko_g": 0.0,
+      "tluszcz_g": 0.0,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0.0,
+      "cukry_g": 0.0,
+      "sod_mg": 0.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.0,
+      "woda_g": 100.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5900730570154",
+    "nazwa": "sól",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 0.0,
+      "bialko_g": 0.0,
+      "tluszcz_g": 0.0,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0.0,
+      "cukry_g": 0.0,
+      "sod_mg": 38758.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 0.0,
+      "woda_g": 0.0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000001",
+    "nazwa": "chleb żytni razowy",
+    "kategoria": "Pieczywo",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 220,
+      "bialko_g": 6.5,
+      "tluszcz_g": 1.5,
+      "weglowodany_g": 43,
+      "blonnik_g": 6.0,
+      "cukry_g": 2.0,
+      "sod_mg": 520,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 2.4,
+      "woda_g": 38
+    },
+    "alergeny": [
+      "gluten"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000002",
+    "nazwa": "bułka grahamka",
+    "kategoria": "Pieczywo",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 250,
+      "bialko_g": 8.5,
+      "tluszcz_g": 2.2,
+      "weglowodany_g": 48,
+      "blonnik_g": 5.5,
+      "cukry_g": 3.0,
+      "sod_mg": 460,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 2.2,
+      "woda_g": 32
+    },
+    "alergeny": [
+      "gluten"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000003",
+    "nazwa": "masło",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 717,
+      "bialko_g": 0.9,
+      "tluszcz_g": 81.0,
+      "weglowodany_g": 0.1,
+      "blonnik_g": 0,
+      "cukry_g": 0.1,
+      "sod_mg": 11,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.0,
+      "woda_g": 16
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000004",
+    "nazwa": "ser żółty",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 350,
+      "bialko_g": 25.0,
+      "tluszcz_g": 27.0,
+      "weglowodany_g": 2.0,
+      "blonnik_g": 0,
+      "cukry_g": 0.5,
+      "sod_mg": 620,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.5,
+      "woda_g": 38
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000005",
+    "nazwa": "twaróg półtłusty",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 130,
+      "bialko_g": 18.0,
+      "tluszcz_g": 4.5,
+      "weglowodany_g": 3.5,
+      "blonnik_g": 0,
+      "cukry_g": 3.5,
+      "sod_mg": 50,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.3,
+      "woda_g": 72
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000006",
+    "nazwa": "jajko",
+    "kategoria": "Nabiał i jaja",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 143,
+      "bialko_g": 13.0,
+      "tluszcz_g": 10.0,
+      "weglowodany_g": 1.1,
+      "blonnik_g": 0,
+      "cukry_g": 1.1,
+      "sod_mg": 142,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 1.8,
+      "woda_g": 76
+    },
+    "alergeny": [
+      "jaja"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000007",
+    "nazwa": "miód",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 304,
+      "bialko_g": 0.3,
+      "tluszcz_g": 0.0,
+      "weglowodany_g": 76.0,
+      "blonnik_g": 0.2,
+      "cukry_g": 75.0,
+      "sod_mg": 4,
+      "witamina_c_mg": 0.5,
+      "zelazo_mg": 0.4,
+      "woda_g": 17
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000008",
+    "nazwa": "dżem truskawkowy",
+    "kategoria": "Inne",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 220,
+      "bialko_g": 0.4,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 54.0,
+      "blonnik_g": 1.0,
+      "cukry_g": 50.0,
+      "sod_mg": 10,
+      "witamina_c_mg": 10.0,
+      "zelazo_mg": 0.4,
+      "woda_g": 40
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000009",
+    "nazwa": "banan",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 89,
+      "bialko_g": 1.1,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 23.0,
+      "blonnik_g": 2.6,
+      "cukry_g": 12.0,
+      "sod_mg": 1,
+      "witamina_c_mg": 8.7,
+      "zelazo_mg": 0.3,
+      "woda_g": 75
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000010",
+    "nazwa": "truskawki",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 32,
+      "bialko_g": 0.7,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 7.7,
+      "blonnik_g": 2.0,
+      "cukry_g": 4.9,
+      "sod_mg": 1,
+      "witamina_c_mg": 59.0,
+      "zelazo_mg": 0.4,
+      "woda_g": 91
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000011",
+    "nazwa": "gruszka",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 57,
+      "bialko_g": 0.4,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 15.0,
+      "blonnik_g": 3.1,
+      "cukry_g": 10.0,
+      "sod_mg": 1,
+      "witamina_c_mg": 4.3,
+      "zelazo_mg": 0.2,
+      "woda_g": 84
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000012",
+    "nazwa": "pomarańcza",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 47,
+      "bialko_g": 0.9,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 12.0,
+      "blonnik_g": 2.4,
+      "cukry_g": 9.0,
+      "sod_mg": 0,
+      "witamina_c_mg": 53.0,
+      "zelazo_mg": 0.1,
+      "woda_g": 87
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000013",
+    "nazwa": "winogrona",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 69,
+      "bialko_g": 0.6,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 18.0,
+      "blonnik_g": 0.9,
+      "cukry_g": 16.0,
+      "sod_mg": 2,
+      "witamina_c_mg": 3.2,
+      "zelazo_mg": 0.4,
+      "woda_g": 81
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000014",
+    "nazwa": "cytryna",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 29,
+      "bialko_g": 1.1,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 9.3,
+      "blonnik_g": 2.8,
+      "cukry_g": 2.5,
+      "sod_mg": 2,
+      "witamina_c_mg": 53.0,
+      "zelazo_mg": 0.6,
+      "woda_g": 89
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000015",
+    "nazwa": "rodzynki",
+    "kategoria": "Owoce",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 299,
+      "bialko_g": 3.0,
+      "tluszcz_g": 0.5,
+      "weglowodany_g": 79.0,
+      "blonnik_g": 3.7,
+      "cukry_g": 59.0,
+      "sod_mg": 11,
+      "witamina_c_mg": 2.3,
+      "zelazo_mg": 1.9,
+      "woda_g": 15
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000016",
+    "nazwa": "kefir",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 49,
+      "bialko_g": 3.3,
+      "tluszcz_g": 2.0,
+      "weglowodany_g": 4.0,
+      "blonnik_g": 0,
+      "cukry_g": 4.0,
+      "sod_mg": 40,
+      "witamina_c_mg": 0.8,
+      "zelazo_mg": 0.1,
+      "woda_g": 88
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000017",
+    "nazwa": "maślanka",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 40,
+      "bialko_g": 3.3,
+      "tluszcz_g": 1.0,
+      "weglowodany_g": 4.8,
+      "blonnik_g": 0,
+      "cukry_g": 4.8,
+      "sod_mg": 105,
+      "witamina_c_mg": 1.0,
+      "zelazo_mg": 0.1,
+      "woda_g": 90
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000018",
+    "nazwa": "jogurt grecki",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 97,
+      "bialko_g": 9.0,
+      "tluszcz_g": 5.0,
+      "weglowodany_g": 4.0,
+      "blonnik_g": 0,
+      "cukry_g": 4.0,
+      "sod_mg": 36,
+      "witamina_c_mg": 0.5,
+      "zelazo_mg": 0.1,
+      "woda_g": 80
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000019",
+    "nazwa": "śmietana 18%",
+    "kategoria": "Nabiał",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 195,
+      "bialko_g": 2.7,
+      "tluszcz_g": 18.0,
+      "weglowodany_g": 3.4,
+      "blonnik_g": 0,
+      "cukry_g": 3.4,
+      "sod_mg": 40,
+      "witamina_c_mg": 0.5,
+      "zelazo_mg": 0.1,
+      "woda_g": 75
+    },
+    "alergeny": [
+      "mleko"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000020",
+    "nazwa": "płatki jaglane",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 378,
+      "bialko_g": 11.0,
+      "tluszcz_g": 4.2,
+      "weglowodany_g": 73.0,
+      "blonnik_g": 3.5,
+      "cukry_g": 1.0,
+      "sod_mg": 5,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 3.0,
+      "woda_g": 12
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000021",
+    "nazwa": "musli",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 360,
+      "bialko_g": 9.0,
+      "tluszcz_g": 6.0,
+      "weglowodany_g": 66.0,
+      "blonnik_g": 7.0,
+      "cukry_g": 20.0,
+      "sod_mg": 30,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 3.0,
+      "woda_g": 6
+    },
+    "alergeny": [
+      "gluten"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000022",
+    "nazwa": "kasza gryczana",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 343,
+      "bialko_g": 13.0,
+      "tluszcz_g": 3.4,
+      "weglowodany_g": 72.0,
+      "blonnik_g": 10.0,
+      "cukry_g": 0.0,
+      "sod_mg": 5,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 2.8,
+      "woda_g": 10
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000023",
+    "nazwa": "kasza jaglana",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 378,
+      "bialko_g": 11.0,
+      "tluszcz_g": 4.0,
+      "weglowodany_g": 73.0,
+      "blonnik_g": 3.5,
+      "cukry_g": 0.0,
+      "sod_mg": 5,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 3.0,
+      "woda_g": 11
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000024",
+    "nazwa": "komosa ryżowa",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 368,
+      "bialko_g": 14.0,
+      "tluszcz_g": 6.0,
+      "weglowodany_g": 64.0,
+      "blonnik_g": 7.0,
+      "cukry_g": 0.0,
+      "sod_mg": 5,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 4.6,
+      "woda_g": 13
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000025",
+    "nazwa": "ryż brązowy",
+    "kategoria": "Zboża",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 362,
+      "bialko_g": 7.5,
+      "tluszcz_g": 2.7,
+      "weglowodany_g": 76.0,
+      "blonnik_g": 3.5,
+      "cukry_g": 0.9,
+      "sod_mg": 5,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 1.5,
+      "woda_g": 12
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000026",
+    "nazwa": "łosoś filet",
+    "kategoria": "Ryby",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 208,
+      "bialko_g": 20.0,
+      "tluszcz_g": 13.0,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0,
+      "cukry_g": 0.0,
+      "sod_mg": 59,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.3,
+      "woda_g": 68
+    },
+    "alergeny": [
+      "ryby"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000027",
+    "nazwa": "indyk pierś",
+    "kategoria": "Mięso",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 135,
+      "bialko_g": 30.0,
+      "tluszcz_g": 1.7,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0,
+      "cukry_g": 0.0,
+      "sod_mg": 60,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 1.2,
+      "woda_g": 72
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000028",
+    "nazwa": "mintaj filet",
+    "kategoria": "Ryby",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 82,
+      "bialko_g": 18.0,
+      "tluszcz_g": 0.7,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0,
+      "cukry_g": 0.0,
+      "sod_mg": 95,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.4,
+      "woda_g": 80
+    },
+    "alergeny": [
+      "ryby"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000029",
+    "nazwa": "tofu",
+    "kategoria": "Rośliny strączkowe",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 76,
+      "bialko_g": 8.0,
+      "tluszcz_g": 4.8,
+      "weglowodany_g": 1.9,
+      "blonnik_g": 1.2,
+      "cukry_g": 0.6,
+      "sod_mg": 7,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 5.4,
+      "woda_g": 85
+    },
+    "alergeny": [
+      "soja"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000030",
+    "nazwa": "fasola biała",
+    "kategoria": "Rośliny strączkowe",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 333,
+      "bialko_g": 23.0,
+      "tluszcz_g": 1.0,
+      "weglowodany_g": 60.0,
+      "blonnik_g": 15.0,
+      "cukry_g": 2.0,
+      "sod_mg": 4,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 6.0,
+      "woda_g": 12
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000031",
+    "nazwa": "ciecierzyca",
+    "kategoria": "Rośliny strączkowe",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 364,
+      "bialko_g": 19.0,
+      "tluszcz_g": 6.0,
+      "weglowodany_g": 61.0,
+      "blonnik_g": 17.0,
+      "cukry_g": 11.0,
+      "sod_mg": 24,
+      "witamina_c_mg": 1.3,
+      "zelazo_mg": 6.2,
+      "woda_g": 12
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000032",
+    "nazwa": "soczewica zielona",
+    "kategoria": "Rośliny strączkowe",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 353,
+      "bialko_g": 25.0,
+      "tluszcz_g": 1.1,
+      "weglowodany_g": 60.0,
+      "blonnik_g": 11.0,
+      "cukry_g": 2.0,
+      "sod_mg": 6,
+      "witamina_c_mg": 1.5,
+      "zelazo_mg": 7.5,
+      "woda_g": 11
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000033",
+    "nazwa": "pieczarki",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 22,
+      "bialko_g": 3.1,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 3.3,
+      "blonnik_g": 1.0,
+      "cukry_g": 2.0,
+      "sod_mg": 5,
+      "witamina_c_mg": 2.1,
+      "zelazo_mg": 0.5,
+      "woda_g": 92
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000034",
+    "nazwa": "szpinak",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 23,
+      "bialko_g": 2.9,
+      "tluszcz_g": 0.4,
+      "weglowodany_g": 3.6,
+      "blonnik_g": 2.2,
+      "cukry_g": 0.4,
+      "sod_mg": 79,
+      "witamina_c_mg": 28.0,
+      "zelazo_mg": 2.7,
+      "woda_g": 91
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000035",
+    "nazwa": "sałata",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 15,
+      "bialko_g": 1.4,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 2.9,
+      "blonnik_g": 1.3,
+      "cukry_g": 0.8,
+      "sod_mg": 28,
+      "witamina_c_mg": 9.2,
+      "zelazo_mg": 0.9,
+      "woda_g": 95
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000036",
+    "nazwa": "por",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 61,
+      "bialko_g": 1.5,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 14.0,
+      "blonnik_g": 1.8,
+      "cukry_g": 3.9,
+      "sod_mg": 20,
+      "witamina_c_mg": 12.0,
+      "zelazo_mg": 2.1,
+      "woda_g": 83
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000037",
+    "nazwa": "seler korzeniowy",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 42,
+      "bialko_g": 1.5,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 9.2,
+      "blonnik_g": 1.8,
+      "cukry_g": 2.2,
+      "sod_mg": 100,
+      "witamina_c_mg": 8.0,
+      "zelazo_mg": 0.7,
+      "woda_g": 88
+    },
+    "alergeny": [
+      "seler"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000038",
+    "nazwa": "burak",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 43,
+      "bialko_g": 1.6,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 10.0,
+      "blonnik_g": 2.8,
+      "cukry_g": 7.0,
+      "sod_mg": 78,
+      "witamina_c_mg": 4.9,
+      "zelazo_mg": 0.8,
+      "woda_g": 88
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000039",
+    "nazwa": "ogórek",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 15,
+      "bialko_g": 0.7,
+      "tluszcz_g": 0.1,
+      "weglowodany_g": 3.6,
+      "blonnik_g": 0.5,
+      "cukry_g": 1.7,
+      "sod_mg": 2,
+      "witamina_c_mg": 2.8,
+      "zelazo_mg": 0.3,
+      "woda_g": 96
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000040",
+    "nazwa": "kapusta czerwona",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 31,
+      "bialko_g": 1.4,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 7.4,
+      "blonnik_g": 2.1,
+      "cukry_g": 3.8,
+      "sod_mg": 27,
+      "witamina_c_mg": 57.0,
+      "zelazo_mg": 0.8,
+      "woda_g": 90
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000041",
+    "nazwa": "kalafior",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 25,
+      "bialko_g": 1.9,
+      "tluszcz_g": 0.3,
+      "weglowodany_g": 5.0,
+      "blonnik_g": 2.0,
+      "cukry_g": 1.9,
+      "sod_mg": 30,
+      "witamina_c_mg": 48.0,
+      "zelazo_mg": 0.4,
+      "woda_g": 92
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000042",
+    "nazwa": "fasolka szparagowa",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 31,
+      "bialko_g": 1.8,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 7.0,
+      "blonnik_g": 3.4,
+      "cukry_g": 3.3,
+      "sod_mg": 6,
+      "witamina_c_mg": 16.0,
+      "zelazo_mg": 1.0,
+      "woda_g": 90
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000043",
+    "nazwa": "bakłażan",
+    "kategoria": "Warzywa",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 25,
+      "bialko_g": 1.0,
+      "tluszcz_g": 0.2,
+      "weglowodany_g": 6.0,
+      "blonnik_g": 3.0,
+      "cukry_g": 3.5,
+      "sod_mg": 2,
+      "witamina_c_mg": 2.2,
+      "zelazo_mg": 0.2,
+      "woda_g": 92
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000044",
+    "nazwa": "bazylia",
+    "kategoria": "Przyprawy",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 23,
+      "bialko_g": 3.2,
+      "tluszcz_g": 0.6,
+      "weglowodany_g": 2.7,
+      "blonnik_g": 1.6,
+      "cukry_g": 0.3,
+      "sod_mg": 4,
+      "witamina_c_mg": 18.0,
+      "zelazo_mg": 3.2,
+      "woda_g": 92
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "6000000000045",
+    "nazwa": "migdały",
+    "kategoria": "Orzechy",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 579,
+      "bialko_g": 21.0,
+      "tluszcz_g": 50.0,
+      "weglowodany_g": 22.0,
+      "blonnik_g": 12.0,
+      "cukry_g": 4.0,
+      "sod_mg": 1,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 3.7,
+      "woda_g": 4
+    },
+    "alergeny": [
+      "orzechy"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000046",
+    "nazwa": "masło orzechowe",
+    "kategoria": "Orzechy",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 588,
+      "bialko_g": 25.0,
+      "tluszcz_g": 50.0,
+      "weglowodany_g": 20.0,
+      "blonnik_g": 6.0,
+      "cukry_g": 9.0,
+      "sod_mg": 17,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 1.9,
+      "woda_g": 1.5
+    },
+    "alergeny": [
+      "orzeszki_ziemne"
+    ]
+  },
+  {
+    "kod_kreskowy": "6000000000047",
+    "nazwa": "oliwa z oliwek",
+    "kategoria": "Tłuszcze",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 884,
+      "bialko_g": 0.0,
+      "tluszcz_g": 100.0,
+      "weglowodany_g": 0.0,
+      "blonnik_g": 0,
+      "cukry_g": 0.0,
+      "sod_mg": 2,
+      "witamina_c_mg": 0,
+      "zelazo_mg": 0.6,
+      "woda_g": 0
+    },
+    "alergeny": []
+  },
+  {
+    "kod_kreskowy": "5907414279907",
+    "nazwa": "pieprz",
+    "kategoria": "Przyprawy",
+    "wartosci_odzywcze_na_100g": {
+      "kcal": 251.0,
+      "bialko_g": 10.4,
+      "tluszcz_g": 3.3,
+      "weglowodany_g": 64.8,
+      "blonnik_g": 25.3,
+      "cukry_g": 0.6,
+      "sod_mg": 20.0,
+      "witamina_c_mg": 0.0,
+      "zelazo_mg": 9.7,
+      "woda_g": 10.5
+    },
+    "alergeny": []
+  }
+]
